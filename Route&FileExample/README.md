@@ -5,7 +5,6 @@ This example is to understand the usages of file I/O and Express routing structu
 - **URL**
 ```
 localhost:8000/file
-
 ```
 
 **Installation**
