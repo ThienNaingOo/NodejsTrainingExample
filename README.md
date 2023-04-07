@@ -12,5 +12,6 @@ navigate to correspond project folder
 
 # Projects
 * Example01 - [Route and File Example](https://github.com/ThienNaingOo/NodejsTrainingExample/tree/main/Route%26FileExample)
+* Example02 - [Mongoose and Typescript](https://github.com/ThienNaingOo/NodejsTrainingExample/tree/main/DatabaseTsExample)
 
 
