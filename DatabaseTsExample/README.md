@@ -1,4 +1,4 @@
-## MongoDB Database Example using Typescript
+## MongoDB: Database Example using Typescript
 
 This example is to understand the usages of MongoDB CRUD with typescript in nodejs servers.
 
@@ -26,6 +26,7 @@ copy .env.example and create .env. Fill PORT and DB with you local.
 
 - Build and run the project
 ```
-node index.js
+npm run build
+npm run start
 ```
   Navigate to `http://localhost:3000`
