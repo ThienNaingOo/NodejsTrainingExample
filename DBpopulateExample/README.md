@@ -1,19 +1,16 @@
-## MongoDB Database Example using Typescript
+## MongoDB: Table populate and sorting Example using Typescript
 
-This example is to understand the usages of MongoDB CRUD with typescript in nodejs servers.
+This example is to understand the usages of table populate and sorting with typescript in nodejs servers.
 
 - **URL**
 ```
-localhost:8000/api/user/
+localhost:8000/api/post/
 ```
 
 - **Method**
 
 `GET`
 `POST`
-`PUT`
-`DELETE`
-
 
 **Installation**
 - Install dependencies
@@ -26,6 +23,11 @@ copy .env.example and create .env. Fill PORT and DB with you local.
 
 - Build and run the project
 ```
-node index.js
+npx tsc
+node dist/index.js
+```
+or 
+```
+npm run dev
 ```
   Navigate to `http://localhost:3000`
