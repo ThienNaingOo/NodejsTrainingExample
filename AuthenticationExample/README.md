@@ -15,7 +15,7 @@ npm install
 ```
 - Build and run the project
 ```
-node index.js
+npm run start
 ```
   Navigate to `http://localhost:8080/signup`
 - Signup you account
